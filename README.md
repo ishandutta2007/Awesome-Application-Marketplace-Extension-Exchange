@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange?style=flat-square&color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange?style=flat-square&color=green" alt="License" /></a>
@@ -56,33 +56,33 @@ The table below catalogs major SaaS platforms and their app marketplace ecosyste
 
 ## 🔓 Open-Source App Stores & Extension Registries
 
-A curated collection of open-source app stores, package repositories, headless marketplace engines, and extension registries. Sorted in descending order by GitHub star counts:
+A curated collection of open-source app stores, package repositories, headless marketplace engines, and extension registries. Sorted in descending order by GitHub Stars_Counts:
 
-1. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) 🛍️  
+1. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) 🛍️  
    An open-source headless commerce and digital marketplace engine providing modular multi-vendor architectures, extensible plugin modules, and automated workflow pipelines.
 
-2. **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) 🏪  
+2. **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) 🏪  
    An extensible Laravel-based open-source e-commerce platform featuring complete multi-vendor marketplace packages, point-of-sale systems, and a rich extension repository.
 
-3. **[Obtainium](https://github.com/ImranR98/Obtainium)** [![GitHub stars](https://img.shields.io/github/stars/ImranR98/Obtainium?style=social&color=white)](https://github.com/ImranR98/Obtainium/stargazers) 📱  
+3. **[Obtainium](https://github.com/ImranR98/Obtainium)** [![GitHub_Stars](https://img.shields.io/github/stars/ImranR98/Obtainium?style=social&color=white)](https://github.com/ImranR98/Obtainium/stargazers) 📱  
    An open-source Android app manager and release tracker that allows users to install and update open-source apps directly from their upstream source repositories (GitHub, GitLab, Codeberg, F-Droid).
 
-4. **[Komi Store](https://github.com/komi-store/komi-store)** [![GitHub stars](https://img.shields.io/github/stars/komi-store/komi-store?style=social&color=white)](https://github.com/komi-store/komi-store/stargazers) 📦  
+4. **[Komi Store](https://github.com/komi-store/komi-store)** [![GitHub_Stars](https://img.shields.io/github/stars/komi-store/komi-store?style=social&color=white)](https://github.com/komi-store/komi-store/stargazers) 📦  
    A modern open-source desktop app store client and catalog designed to browse, discover, and install software releases hosted directly on GitHub, Codeberg, and Forgejo.
 
-5. **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) 🛒  
+5. **[Spree Commerce](https://github.com/spree/spree)** [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) 🛒  
    A modular, battle-tested Ruby on Rails open-source e-commerce and multi-vendor marketplace framework with hundreds of community extensions and integrations.
 
-6. **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) 💎  
+6. **[Solidus](https://github.com/solidusio/solidus)** [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) 💎  
    A community-driven, customizable open-source e-commerce core built on Ruby on Rails supporting modular marketplace storefronts, payment connectors, and third-party extensions.
 
-7. **[Pi-Apps](https://github.com/Botspot/pi-apps)** [![GitHub stars](https://img.shields.io/github/stars/Botspot/pi-apps?style=social&color=white)](https://github.com/Botspot/pi-apps/stargazers) 🥧  
+7. **[Pi-Apps](https://github.com/Botspot/pi-apps)** [![GitHub_Stars](https://img.shields.io/github/stars/Botspot/pi-apps?style=social&color=white)](https://github.com/Botspot/pi-apps/stargazers) 🥧  
    The popular open-source application store and script catalog for Raspberry Pi and ARM Linux systems, offering one-click installations for hundreds of developer tools, utilities, and apps.
 
-8. **[Eclipse Open VSX](https://github.com/eclipse-openvsx/openvsx)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-openvsx/openvsx?style=social&color=white)](https://github.com/eclipse-openvsx/openvsx/stargazers) 🧩  
+8. **[Eclipse Open VSX](https://github.com/eclipse-openvsx/openvsx)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-openvsx/openvsx?style=social&color=white)](https://github.com/eclipse-openvsx/openvsx/stargazers) 🧩  
    An open-source, vendor-neutral marketplace and registry for VS Code and Eclipse Theia extensions, supported by the Eclipse Foundation as an open alternative to proprietary IDE extension stores.
 
-9. **[World Vibe Web (WVW)](https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange)** [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange/stargazers) 🌐  
+9. **[World Vibe Web (WVW)](https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange)** [![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Application-Marketplace-Extension-Exchange/stargazers) 🌐  
    A federated, decentralized application catalog for open-source and vibe-coded projects. Operates with zero central publisher authority and no revenue cuts; developers maintain `apps.json` manifests in their own git repositories while the catalog aggregates live metrics.
 
 ---
